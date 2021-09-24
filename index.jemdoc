@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+=Bill Tubbs
+
+~~~
+{}{img_left}{images/tubbs_cropped_sm.jpg}{Head shot}{131}{160}
+Management consultant,\n 
+[http://www.btubbsassociates.com B. Tubbs & Associates Consulting],\n
+Vancouver, BC, Canada.\n
+[https://loop.gel.ulaval.ca/accueil/ Laboratoire d'observation et d'optimisation des procédés, Université Laval]\n
+Quebéc City, QC, Canada.\n
+Phone: \+1 778 378 6539 \n
+E-mail: /bill.tubbs/ \[@\] me \[DOT\] com \n
+#{}{img_left}{images/LI-In-Bug.png}{LinkedIn icon}{131}{160} 
+[https://www.linkedin.com/in/billtubbs/ LinkedIn profile] \n
+~~~
+
+== About me
+My goal is to identify and lead initiatives to transform industrial operations that consume energy and materials, increasing productivity and reducing environmental impacts. I am interested in:
+- management control and reporting,
+- data-driven decision-making,
+- organizational learning,
+- advanced data analytics, 
+- coaching and training,
+- high-level programming languages (e.g. Python). 
+
+== Research
+I am currently researching real-time optimization and control methods for the following applications:
+- System identification
+- Process obervers (state estimators)
+- Disturbance detection and estimation
+- Process control (e.g. MPC)
+- Online optimization
+
+[research.html Find out more].\n
+[docs/cv.pdf My full cv].
