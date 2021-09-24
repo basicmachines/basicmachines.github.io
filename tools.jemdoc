@@ -1,4 +1,27 @@
 # jemdoc: menu{MENU}{tools.html}, nofooter  
 =Tools
 
-Coming soon...
+== System identification
+
+- [https://github.com/billtubbs/dyn-opt dyn-opt] - Various Python tools for data pre-processing and dynamic system model identification.
+
+== Control
+
+Algorithms
+- [https://github.com/billtubbs/mpc-code mpc-code] - MATLAB scripts to implement MPC prediction equations and control laws for linear system models.
+
+Simulation environments
+
+- [https://github.com/billtubbs/gym-CartPole-bt-v0 gym-CartPole-bt-v0] - A modified version of the cart-pole OpenAI Gym environment for testing different control policies.
+- [https://github.com/billtubbs/gym-julia gym-julia] - Julia version of above cart-pole test environment.
+
+I am also a contributor to the open source [https://github.com/python-control/python-control/blob/0.9.0/doc/index.rst Python Control Systems Library] project.
+
+== Machine learning
+
+- [https://github.com/billtubbs/experiments experiments] - Tools to setup and manage machine learning tests and experiments on a remote machine.
+
+== Energy optimization
+
+- [https://github.com/billtubbs/energy-opt energy-opt] - Python functions for analyzing energy consumption in industrial process operations.
+
