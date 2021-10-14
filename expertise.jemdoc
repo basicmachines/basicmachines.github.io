@@ -1,0 +1,63 @@
+# jemdoc: menu{MENU}{expertise.html}, nofooter  
+=Expertise
+
+I have a range of expertise in three main areas:
+
+. Production optimization
+. Environmental management
+. Dynamic process optimization
+
+~~~
+{}{img_left}{images/oil_platform.jpeg}{Oil platform}{360}{200}
+~~~
+
+== Production optimization
+
+Between 1998 and 2003 I worked as a management consultant implementing improved operating practices in heavy industrial manufacturing operations (bulk chemicals, oil and gas). This was a formative period where I learned very powerful techniques in promoting effective behaviours through /data-driven management and decision-making/. 
+
+Some of the key techniques I was trained on were:
+- Management control and reporting systems
+- [https://en.wikipedia.org/wiki/Overall_equipment_effectiveness OEE] and production loss accounting
+- [https://en.wikipedia.org/wiki/Performance_indicator KPIs] and [https://www.leanproduction.com/short-interval-control/ Short interval control]
+- Basic problem solving skills
+- Maintenance effectiveness and asset management
+- Interpersonal skills, coaching, and effective meetings
+- Leadership and teambuilding
+- Project design and definition.
+
+
+== Environmental management
+
+In 2003 I emigrated to Canada and did a Master's degree in [http://www.sfu.ca/rem.html resource and environmental management]. This introduced me to public policy and climate policy design in particular. My research on [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf simulation modelling of energy and emissions in US and Canada] provided deep insights into the role of energy and materials in economic activity across all sectors. This reinforced my committment to reducing the energy and materials intensity of industrial production.
+
+Between 2008 and 2014 I worked as a climate and energy efficiency specialist, and later, regulatory and environmental manager at a large natural gas processing and transmission company which provided valuable experience in government relations, stakeholder engagement, and regulatory management. During this time, I played an influential role [https://www2.gov.bc.ca/gov/content/environment/climate-change/clean-economy/carbon-tax provincial climate policy], [https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/multi-sector-air-pollutants-regulations-questions.html federal air emissions regulations], and a large [https://www.nrcan.gc.ca/energy/publications/16422 carbon capture and sequestration] feasibility study.
+
+In 2014 I left oil and gas and moved into energy efficiency consulting, working with a public utility in Saskatchewan to help their large industrial customers quantify energy consumption and identify opportunities to reduce it. This lead me back into indsutrial process analysis and optimization which has always been my passion.
+
+
+== Dynamic process optimization
+
+Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability with low-level process controls. However, most process are subject to persistant, unpredictable disturbances. These are usually unmeasurable and unpredictable and sometimes can be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, which renders a static optimization model obsolete over time.
+
+The increasing availability of good measurement data and integrated information systems has opened the door to the possibility of achieving dynamic optimization in real time. However, there are two important hurdles standing in the way of exploiting this opportunity.
+
+Firstly, advanced process control (APC) and real-time optimization techniques require a solid bedrock of well-maintained instrumentation, a distributed control system (DCS), capable data acquisition systems, and ideally, business information systems to archive and serve the data in a form that operators and managers can make use of it.
+
+Secondly, these solutions require more sophisticated mathematical models and advanced data analysis techniques. While there has been a metaphorical explosion in research on machine learning and AI, very few of the methods or results are applicable to industrial process control and optimization. Instead, data-driven approaches based on first-principles models and well-proven methods from control engineering such as [https://en.wikipedia.org/wiki/System_identification system identification], [https://en.wikipedia.org/wiki/Model_predictive_control model predictive control] and [https://en.wikipedia.org/wiki/Moving_horizon_estimation moving-horizon estimation] are more likely to yield safe, reliable and effective solutions.
+
+Realising these opportunities, I decided back in 2013 to start my own [consulting.html consulting business] and invest considerable time in developing my knowledge and skills in the following areas:
+
+- Dynamic optimization ([http://apmonitor.com/do/Dynamic BYU course])
+- High-level computer programming languages ([https://github.com/billtubbs/lang-comp Python, MATLAB, Julia])
+- Introduction to dynamical systems ([https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=552 UBC course])
+- Data-Driven Modelling (UBC course)
+- Linear systems and control ([https://www.ulaval.ca/etudes/cours/gel-2005-systemes-et-commande-lineaires U Laval course])
+- Industrial process control ([https://www.ulaval.ca/etudes/cours/gel-7063-commande-industrielle U Laval course])
+- Observers and predictive control ([https://www.ulaval.ca/etudes/cours/gel-7029-observation-et-commande-predictive U Laval course])
+- System identification ([https://www.ulaval.ca/etudes/cours/gel-7017-identification-des-systemes U Laval course])
+- Multivariable control ([https://www.ulaval.ca/etudes/cours/gel-7015-commande-des-systemes-avancee U Laval course])
+- Adaptive control ([https://courses.ece.ubc.ca/574/EECE574_Beamer01.pdf UBC course])
+- Machine learning ([https://www.coursera.org/learn/machine-learning course])
+- Deep learning ([https://www.coursera.org/specializations/deep-learning course])
+- Reinforcement learning (UBC directed studies course)
+

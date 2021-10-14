@@ -8,14 +8,16 @@
 == Control
 
 Algorithms
+- [https://github.com/billtubbs/process-observers process-observers] (/coming soon/) - MATLAB scripts to implement various process observers, including Kalman filter and EKF.
 - [https://github.com/billtubbs/mpc-code mpc-code] - MATLAB scripts to implement MPC prediction equations and control laws for linear system models.
 
 Simulation environments
 
 - [https://github.com/billtubbs/gym-CartPole-bt-v0 gym-CartPole-bt-v0] - A modified version of the cart-pole OpenAI Gym environment for testing different control policies.
 - [https://github.com/billtubbs/gym-julia gym-julia] - Julia version of above cart-pole test environment.
+- [https://github.com/billtubbs/process-models process-models] - MATLAB process simulation models for control system design.
 
-I am also a contributor to the open source [https://github.com/python-control/python-control/blob/0.9.0/doc/index.rst Python Control Systems Library] project.
+I am also a contributor to the open source [https://github.com/python-control/python-control/blob/0.9.0/doc/index.rst Python Control Systems Library].
 
 == Machine learning
 
