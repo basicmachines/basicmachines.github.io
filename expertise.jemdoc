@@ -18,8 +18,8 @@ Between 1998 and 2003 I worked as a management consultant implementing improved 
 Some of the key techniques I was trained on were:
 - Management control and reporting systems
 - [https://en.wikipedia.org/wiki/Overall_equipment_effectiveness OEE] and production loss accounting
-- [https://en.wikipedia.org/wiki/Performance_indicator KPIs] and [https://www.leanproduction.com/short-interval-control/ Short interval control]
-- Basic problem solving skills
+- [https://en.wikipedia.org/wiki/Performance_indicator KPIs] and [https://www.leanproduction.com/short-interval-control/ short interval control]
+- Basic problem-solving skills
 - Maintenance effectiveness and asset management
 - Interpersonal skills, coaching, and effective meetings
 - Leadership and teambuilding
@@ -28,16 +28,17 @@ Some of the key techniques I was trained on were:
 
 == Environmental management
 
-In 2003 I emigrated to Canada and did a Master's degree in [http://www.sfu.ca/rem.html resource and environmental management]. This introduced me to public policy and climate policy design in particular. My research on [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf simulation modelling of energy and emissions in US and Canada] provided deep insights into the role of energy and materials in economic activity across all sectors. This reinforced my committment to reducing the energy and materials intensity of industrial production.
+In 2003 I emigrated to Canada and did a master's degree in [http://www.sfu.ca/rem.html resource and environmental management]. This introduced me to public policy and climate policy design. My research on [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf simulation modelling of energy and emissions in US and Canada] provided deep insights into the role of energy and materials in economic activity across all sectors. This reinforced my commitment to reducing the energy and materials intensity of industrial production.
 
 Between 2008 and 2014 I worked as a climate and energy efficiency specialist, and later, regulatory and environmental manager at a large natural gas processing and transmission company which provided valuable experience in government relations, stakeholder engagement, and regulatory management. During this time, I played an influential role [https://www2.gov.bc.ca/gov/content/environment/climate-change/clean-economy/carbon-tax provincial climate policy], [https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/multi-sector-air-pollutants-regulations-questions.html federal air emissions regulations], and a large [https://www.nrcan.gc.ca/energy/publications/16422 carbon capture and sequestration] feasibility study.
 
-In 2014 I left oil and gas and moved into energy efficiency consulting, working with a public utility in Saskatchewan to help their large industrial customers quantify energy consumption and identify opportunities to reduce it. This lead me back into indsutrial process analysis and optimization which has always been my passion.
+In 2014 I left oil and gas and moved into energy efficiency consulting, working with a public utility in Saskatchewan to help their large industrial customers quantify energy consumption and identify opportunities to reduce it. I provided detailed [https://www.btubbsassociates.com/energy-optimization-and-management energy end-use analyses] (gas, electric, steam) at various large mining and mineral processing sites including identification and evaluation of savings opportunities.
+This work led me back into industrial process analysis and optimization which has always been my passion.
 
 
 == Dynamic process optimization
 
-Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability with low-level process controls. However, most process are subject to persistant, unpredictable disturbances. These are usually unmeasurable and unpredictable and sometimes can be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, which renders a static optimization model obsolete over time.
+Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability with low-level process controls. However, most process are subject to persistent, unpredictable disturbances. These are usually unmeasurable and unpredictable and sometimes can be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, which renders a static optimization model obsolete over time.
 
 The increasing availability of good measurement data and integrated information systems has opened the door to the possibility of achieving dynamic optimization in real time. However, there are two important hurdles standing in the way of exploiting this opportunity.
 
