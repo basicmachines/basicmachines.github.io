@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{expertise.html}, nofooter  
 =Expertise
 
-I have a range of expertise in three main areas:
+I have a variety of expertise in three main areas:
 
 . Production optimization
 . Environmental management
@@ -46,7 +46,7 @@ Firstly, advanced process control (APC) and other real-time optimization techniq
 
 Secondly, these solutions require more sophisticated mathematical models and advanced data analysis techniques. While there has been a metaphorical explosion in research on machine learning and AI, very few of the methods or results are applicable to industrial process control and optimization. Instead, data-driven approaches based on first-principles models and well-proven methods from control engineering such as [https://en.wikipedia.org/wiki/System_identification system identification], [https://en.wikipedia.org/wiki/Model_predictive_control model predictive control] and [https://en.wikipedia.org/wiki/Moving_horizon_estimation moving-horizon estimation] are more likely to yield safe, reliable and effective solutions. The problem is, you need a control engineering degree to know how to design and implement them. 
 
-Realising these opportunities, I decided back in 2013 to start my own [consulting.html consulting business] and invest considerable time in developing my knowledge and skills in the following areas:
+Realising these opportunities, I decided back in 2013 to start my own [consulting.html consulting business] and invested in developing my knowledge and skills in the following areas:
 
 - Dynamic optimization ([http://apmonitor.com/do/Dynamic BYU course])
 - High-level computer programming languages ([https://github.com/billtubbs/lang-comp Python, MATLAB, Julia])
@@ -61,4 +61,3 @@ Realising these opportunities, I decided back in 2013 to start my own [consultin
 - Machine learning ([https://www.coursera.org/learn/machine-learning course])
 - Deep learning ([https://www.coursera.org/specializations/deep-learning course])
 - Reinforcement learning (UBC directed studies course)
-
