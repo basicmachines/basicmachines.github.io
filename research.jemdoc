@@ -14,9 +14,9 @@ Image credit: [https://www.andritz.com/products-en/group/automation/advanced-pro
 
 === Why I switched from a PhD to a Masters
 
-In 2018 I started a PhD at the School of Mining at University of British Columbia to focus on dynamic (real-time) optimization of grinding equipment in mineral processing operations. At the time, I wrote in my [docs/ubc-interest-190820.pdf statement of interest]:
+In 2018 I started a PhD at the [https://mining.ubc.ca School of Mining] at the University of British Columbia to focus on dynamic (real-time) optimization of grinding equipment in mineral processing operations. At the time, I wrote in my [docs/ubc-interest-190820.pdf statement of interest]:
 
-"Various machine learning techniques have the capability to 'learn' complex behaviour from raw measurement data. Techniques such as recurrent neural networks and reinforcement learning have been shown to learn complex tasks without requiring a prior model of the system dynamics and also to learn from expert example (imitation learning). However, these unstructured methods also present serious problems in industrial process applications such as lack of robustness, inability to guarantee performance, and require large amounts of training data."
+- "Various machine learning techniques have the capability to 'learn' complex behaviour from raw measurement data. Techniques such as recurrent neural networks and reinforcement learning have been shown to learn complex tasks without requiring a prior model of the system dynamics and also to learn from expert example (imitation learning). However, these unstructured methods also present serious problems in industrial process applications such as lack of robustness, inability to guarantee performance, and require large amounts of training data."
 
 During my time at UBC, I gained a thorough understanding of comminution theory and developed a dynamic model of a SAG mill (based on the well-known Molycop population balance model) to use in my research. I also took courses in reinforcement learning and control theory, and made connections with professors in other departments including computer science (CS), chemical engineering (CHBE) and Electrical and Computer Engineering (EECE). This lead me to a number of realisations:
 
@@ -26,7 +26,7 @@ During my time at UBC, I gained a thorough understanding of comminution theory a
 
 After a year and a half, I decided to change course and join the [http://loop.gel.ulaval.ca LOOP research group] at University of Laval, Quebec, who have been working on control and optimization of mineral processing operations for many years. What's more, they had already developed a dynamic simulation model of a grinding circuit based on a real operating plant (Pérez-García, Bouchard, and Poulin, 2020). I started a masters in electrical and computer engineering there in May 2020.
 
-My current supervisors are:
+My supervisors are:
 - [https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/desbiens-andre/ André Desbiens]
 - [https://www.gch.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/bouchard-jocelyn/ Jocelyn Bouchard]
 

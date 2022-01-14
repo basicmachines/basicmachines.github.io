@@ -33,10 +33,13 @@
 <p>Image credit: <a href="https://www.andritz.com/products-en/group/automation/advanced-process-control/brainwave-sag-mill" target=&ldquo;blank&rdquo;>Andritz Automation</a>
 </p>
 <h3>Why I switched from a PhD to a Masters</h3>
-<p>In 2018 I started a PhD at the School of Mining at University of British Columbia to focus on dynamic (real-time) optimization of grinding equipment in mineral processing operations. At the time, I wrote in my <a href="docs/ubc-interest-190820.pdf" target=&ldquo;blank&rdquo;>statement of interest</a>:
+<p>In 2018 I started a PhD at the <a href="https://mining.ubc.ca" target=&ldquo;blank&rdquo;>School of Mining</a> at the University of British Columbia to focus on dynamic (real-time) optimization of grinding equipment in mineral processing operations. At the time, I wrote in my <a href="docs/ubc-interest-190820.pdf" target=&ldquo;blank&rdquo;>statement of interest</a>:
 </p>
-<p>&ldquo;Various machine learning techniques have the capability to 'learn&rsquo; complex behaviour from raw measurement data. Techniques such as recurrent neural networks and reinforcement learning have been shown to learn complex tasks without requiring a prior model of the system dynamics and also to learn from expert example (imitation learning). However, these unstructured methods also present serious problems in industrial process applications such as lack of robustness, inability to guarantee performance, and require large amounts of training data.&rdquo;
+<ul>
+<li><p>&ldquo;Various machine learning techniques have the capability to 'learn&rsquo; complex behaviour from raw measurement data. Techniques such as recurrent neural networks and reinforcement learning have been shown to learn complex tasks without requiring a prior model of the system dynamics and also to learn from expert example (imitation learning). However, these unstructured methods also present serious problems in industrial process applications such as lack of robustness, inability to guarantee performance, and require large amounts of training data.&rdquo;
 </p>
+</li>
+</ul>
 <p>During my time at UBC, I gained a thorough understanding of comminution theory and developed a dynamic model of a SAG mill (based on the well-known Molycop population balance model) to use in my research. I also took courses in reinforcement learning and control theory, and made connections with professors in other departments including computer science (CS), chemical engineering (CHBE) and Electrical and Computer Engineering (EECE). This lead me to a number of realisations:
 </p>
 <ul>
@@ -50,9 +53,9 @@
 </p>
 </li>
 </ul>
-<p>After a year and a half, I decided to change course and join the <a href="http://loop.gel.ulaval.ca" target=&ldquo;blank&rdquo;>LOOP research group</a> at University of Laval, Quebec, who have been working on control and optimization of mineral processing operations for many years. What's more, they had already developed a dynmaic simulation model of a grinding circuit based on a real operating plant (Pérez-García, Bouchard, and Poulin, 2020). I started my masters in electrical and computer engineering there in May 2020.
+<p>After a year and a half, I decided to change course and join the <a href="http://loop.gel.ulaval.ca" target=&ldquo;blank&rdquo;>LOOP research group</a> at University of Laval, Quebec, who have been working on control and optimization of mineral processing operations for many years. What's more, they had already developed a dynamic simulation model of a grinding circuit based on a real operating plant (Pérez-García, Bouchard, and Poulin, 2020). I started a masters in electrical and computer engineering there in May 2020.
 </p>
-<p>My current supervisors are:
+<p>My supervisors are:
 </p>
 <ul>
 <li><p><a href="https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/desbiens-andre/" target=&ldquo;blank&rdquo;>André Desbiens</a>
@@ -65,11 +68,11 @@
 <h2>Multi-model observers</h2>
 <p>My current research is focussed on process observers to detect and estimate unmeasured disturbances in grinding circuits. Changes in ore properties create challenges for the control and optimization of grinding equipment because they are generally difficult to measure in real time and have significant impacts on the grinding process and downstream operations. Traditional approaches to dynamic modelling and optimal control have relied on simplistic assumptions about the types and nature of disturbances affecting the process.
 </p>
-<p>I am looking at the potential of multi-model observers (Tugnait, 1982) to detect and estimate large, abrupt changes in ore properties which might occur in real operations, using existing available measurements from the primary grinding circuit.  Large, infrequently-occurring changes pose particular problems for state estimation using standard methods such as Kalman filters due to the inevitable a trade-off that must be made during the filter design between its ability to respond to the infrequent disturbance when it occurs and its sensitivity to noise at other times (Robertson et al. ,1995).
+<p>I am looking at the potential of multi-model observers (Tugnait, 1982) to detect and estimate large, abrupt changes in ore properties which might occur in real operations, using existing available measurements from the primary grinding circuit.  Large, infrequently-occurring changes pose particular problems for state estimation using standard methods such as Kalman filters due to the inevitable a trade-off that must be made during the filter design between its ability to respond to the infrequent disturbance when it occurs and its sensitivity to noise at other times (Robertson et al., 1995).
 </p>
 <p>Multi-model observers maintain multiple simultaneous estimates of the states based on different hypotheses about the unmeasured disturbance. The final state estimate is based on the conditional likelihood of each hypothesis given the current and past measurements.
 </p>
-<p>Compared to a single Kalman filter, Multi-model observers produce lower estimation errors because they can respond to changes quickly without compromising sensitivity to noise during steady-state. 
+<p>Compared to a single Kalman filter, multi-model observers produce lower estimation errors because they can respond to changes quickly without compromising sensitivity to noise during steady-state. 
 </p>
 <p>Real-time estimation of changes in ore feed properties to grinding operations could have significant benefits, however, more work is needed to characterize ore feed disturbances, to determine if the process and disturbance models can be identified in practice, and to estimate the potential benefits.
 </p>
