@@ -6,7 +6,7 @@ utility by Jang Feng.  (The original Jemdoc app does not support Python 3).
 
 Follow the intructions at above link to put `jemdoc` on your path.
 
-The run the following to update a page or all pages:
+Then run the following to update a page or all pages:
 
 ```python
 jemdoc index.jemdoc
