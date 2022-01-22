@@ -19,6 +19,11 @@ Simulation environments
 
 I am also a contributor to the open source [https://github.com/python-control/python-control/blob/0.9.0/doc/index.rst Python Control Systems Library].
 
+MATLAB Utility scripts
+- [https://github.com/billtubbs/ml-data-utils ml-data-utils] - Various functions to manage experimental data in MATLAB
+- [https://github.com/billtubbs/ml-plot-utils ml-plot-utils] - Various functions to make nice plots in MATLAB
+- [https://github.com/billtubbs/ml-sys-id ml-sys-id] - Various functions for identifying AR and ARX models in MATLAB
+
 == Machine learning
 
 - [https://github.com/billtubbs/experiments experiments] - Tools to setup and manage machine learning tests and experiments on a remote machine.
