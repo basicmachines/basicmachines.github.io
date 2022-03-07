@@ -1,18 +1,19 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 =Publications
 
-== General reading
-Articles and blog posts on industrial process optimization, data analysis and machine learning.
-
-- [https://towardsdatascience.com/have-spreadsheets-got-a-future-9b7ad23648b8 Is The Age of The Spreadsheet Over? (2020)]
-
-
 == Conference papers and presentations
 
+- An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (submitted to IFAC, 2022)
 - [docs/SAG_MIll_Control_Challenges_UVic_Control_Mtg_190828.pdf Control Of SAG Mills And Its Challenges, (2019)]
 - [docs/Tubbs_Poster_36x48_191205_FINAL.pdf Data-Driven Models For Industrial Process Control, BC AI Student Poster (2019)]
 - [docs/Tubbs_Poster_36x48_190923_FINAL.pdf Data-Driven Approaches To Dynamic Optimization, SAG 2019 conference poster (2019)]
 - [docs/Tubbs_CIM_Operations_Best_Practices_Talk_190428.pdf Data-Driven Production Optimization, CIM conference (2019)]
 - [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf A Simulation Model for Canada-US Climate Policy Analysis (2008)]
+
+
+== General reading
+Articles and blog posts on industrial process optimization, data analysis and machine learning.
+
+- [https://towardsdatascience.com/have-spreadsheets-got-a-future-9b7ad23648b8 Is The Age of The Spreadsheet Over? (2020)]
 
 More coming soon...
