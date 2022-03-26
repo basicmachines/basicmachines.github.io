@@ -5,14 +5,13 @@
 
 - [https://github.com/billtubbs/dyn-opt dyn-opt] - Various Python tools for data pre-processing and dynamic system model identification.
 
-== Control
+== Process control
 
 Algorithms
-- [https://github.com/billtubbs/process-observers process-observers] (/coming soon/) - MATLAB scripts to implement various process observers, including Kalman filter and EKF.
+- [https://github.com/billtubbs/ml-obs ml-obs] - MATLAB scripts to implement various process observers, including Kalman filter, EKF, and multi-model observers for switching (hybrid) systems.
 - [https://github.com/billtubbs/mpc-code mpc-code] - MATLAB scripts to implement MPC prediction equations and control laws for linear system models.
 
 Simulation environments
-
 - [https://github.com/billtubbs/gym-CartPole-bt-v0 gym-CartPole-bt-v0] - A modified version of the cart-pole OpenAI Gym environment for testing different control policies.
 - [https://github.com/billtubbs/gym-julia gym-julia] - Julia version of above cart-pole test environment.
 - [https://github.com/billtubbs/process-models process-models] - MATLAB process simulation models for control system design.
