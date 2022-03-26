@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{tools.html}, nofooter  
 =Tools
 
+Selected numerical analysis tools, mostly in Python or MATLAB.
+
 == System identification
 
 - [https://github.com/billtubbs/dyn-opt dyn-opt] - Various Python tools for data pre-processing and dynamic system model identification.
@@ -30,4 +32,3 @@ MATLAB Utility scripts
 == Energy optimization
 
 - [https://github.com/billtubbs/energy-opt energy-opt] - Python functions for analyzing energy consumption in industrial process operations.
-
