@@ -4,7 +4,7 @@
 I have a variety of expertise in three main areas:
 
 . Production optimization
-. Environmental management
+. Environment management
 . Dynamic process optimization
 
 ~~~
@@ -30,7 +30,7 @@ Some of the key techniques I was trained on were:
 
 In 2003 I emigrated to Canada and did a master's degree in [http://www.sfu.ca/rem.html resource and environmental management]. This introduced me to public policy and climate policy design. My research on [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf simulation modelling of energy and emissions in US and Canada] provided deep insights into the role of energy and materials in economic activity across all sectors. This reinforced my commitment to reducing the energy and materials intensity of industrial production.
 
-Between 2008 and 2014 I worked as a climate and energy efficiency specialist, and later, regulatory and environmental manager at a large natural gas processing and transmission company which provided valuable experience in government relations, stakeholder engagement, and regulatory management. During this time, I played an influential role [https://www2.gov.bc.ca/gov/content/environment/climate-change/clean-economy/carbon-tax provincial climate policy], [https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/multi-sector-air-pollutants-regulations-questions.html federal air emissions regulations], and a large [https://www.nrcan.gc.ca/energy/publications/16422 carbon capture and sequestration] feasibility study.
+Between 2008 and 2014 I worked as a climate and energy efficiency specialist, and later, regulatory and environmental manager at a large natural gas processing and transmission company which provided valuable experience in government relations, stakeholder engagement, and regulatory management. During this time, I played an influential role in [https://www2.gov.bc.ca/gov/content/environment/climate-change/clean-economy/carbon-tax provincial climate policy], [https://www.canada.ca/en/environment-climate-change/services/canadian-environmental-protection-act-registry/multi-sector-air-pollutants-regulations-questions.html federal air emissions regulations], and a large [https://www.nrcan.gc.ca/energy/publications/16422 carbon capture and sequestration] feasibility study.
 
 In 2014 I left oil and gas and moved into energy efficiency consulting, working with a public utility in Saskatchewan to help their large industrial customers quantify energy consumption and identify opportunities to reduce it. I provided detailed [https://www.btubbsassociates.com/energy-optimization-and-management energy end-use analyses] (gas, electric, steam) at various large mining and mineral processing sites including identification and evaluation of savings opportunities.
 This work led me back into industrial process analysis and optimization which has always been my passion.
@@ -38,7 +38,7 @@ This work led me back into industrial process analysis and optimization which ha
 
 == Dynamic process optimization
 
-Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability with distributed low-level process controls. However, most process are subject to persistent, unpredictable disturbances. These are usually unmeasurable and unpredictable and sometimes can be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, which renders a static optimization model obsolete over time.
+Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability using distributed process control (DCS). However, most process are subject to persistent, unpredictable disturbances, especially in upstream oil and gas, and mining where the raw material is highly variable. Such disturbances are unpredictable and practically unmeasurable. They may also be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, due to wear and maintenance for example, which renders a static model obsolete over time.
 
 The increasing availability of good measurement data and integrated information systems has opened the door to the possibility of achieving multi-variable dynamic optimization in real time. However, there are two important hurdles standing in the way of exploiting this opportunity.
 
@@ -46,7 +46,7 @@ Firstly, advanced process control (APC) and other real-time optimization techniq
 
 Secondly, these solutions require more sophisticated mathematical models and advanced data analysis techniques. While there has been a metaphorical explosion in research on machine learning and AI, very few of the methods or results are applicable to industrial process control and optimization. Instead, data-driven approaches based on first-principles models and well-proven methods from control engineering such as [https://en.wikipedia.org/wiki/System_identification system identification], [https://en.wikipedia.org/wiki/Model_predictive_control model predictive control] and [https://en.wikipedia.org/wiki/Moving_horizon_estimation moving-horizon estimation] are more likely to yield safe, reliable and effective solutions. The problem is, you need a control engineering degree to know how to design and implement them. 
 
-Realising these opportunities, I decided back in 2013 to start my own [consulting.html consulting business] and invested in developing my knowledge and skills in the following areas:
+Realising these challenges and opportunities, I decided back in 2013 to start my own [consulting.html consulting business] and invested in developing knowledge and skills in the following areas:
 
 - Dynamic optimization ([http://apmonitor.com/do/Dynamic BYU course])
 - High-level computer programming languages ([https://github.com/billtubbs/lang-comp Python, MATLAB, Julia])
@@ -60,4 +60,4 @@ Realising these opportunities, I decided back in 2013 to start my own [consultin
 - Adaptive control ([https://courses.ece.ubc.ca/574/EECE574_Beamer01.pdf UBC course])
 - Machine learning ([https://www.coursera.org/learn/machine-learning course])
 - Deep learning ([https://www.coursera.org/specializations/deep-learning course])
-- Reinforcement learning (UBC directed studies course)
+- Reinforcement learning (UBC directed studies course).
