@@ -39,7 +39,13 @@ I am looking at the potential of multi-model observers (Tugnait, 1982) to detect
 
 Multi-model observers maintain multiple simultaneous estimates of the states based on different hypotheses about the unmeasured disturbance. The final state estimate is based on the conditional likelihood of each hypothesis given the current and past measurements.
 
-Compared to a single Kalman filter, multi-model observers produce lower estimation errors because they can respond to changes quickly without compromising sensitivity to noise during steady-state. 
+~~~
+{}{img_left}{images/sim_resp_plot.png}{A process observer to detect disturbances in grinding operations}{400}{}{images/sim_resp_plot.png}
+~~~
+
+Figure 1. A process observer to detect disturbances in grinding operations
+
+Compared to a single Kalman filter, multi-model observers produce lower estimation errors because they can respond to changes quickly without compromising sensitivity to noise during steady-state.
 
 Real-time estimation of changes in ore feed properties to grinding operations could have significant benefits, however, more work is needed to characterize ore feed disturbances, to determine if the process and disturbance models can be identified in practice, and to estimate the potential benefits.
 
