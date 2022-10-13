@@ -4,7 +4,7 @@
 I have a variety of expertise in three main areas:
 
 . Production optimization
-. Environment management
+. Environmental management
 . Dynamic process optimization
 
 ~~~
@@ -38,7 +38,7 @@ This work led me back into industrial process analysis and optimization which ha
 
 == Dynamic process optimization
 
-Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability using distributed process control (DCS). However, most process are subject to persistent, unpredictable disturbances, especially in upstream oil and gas, and mining where the raw material is highly variable. Such disturbances are unpredictable and practically unmeasurable. They may also be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, due to wear and maintenance for example, which renders a static model obsolete over time.
+Large industrial production processes are complex and inherently difficult to optimize. Historically, optimization involved analysis of steady-state performance characteristics and a focus on eliminating variability using distributed process control (DCS). However, most processes are subject to persistent, unpredictable disturbances, especially in upstream oil and gas, and mining where the raw material is highly variable. Such disturbances are unpredictable and practically unmeasurable. They may also be large and abrupt, making the achievement of equilibrium conditions impossible. Furthermore, the process is always undergoing change, due to wear and maintenance for example, which renders a static model obsolete over time.
 
 The increasing availability of good measurement data and integrated information systems has opened the door to the possibility of achieving multi-variable dynamic optimization in real time. However, there are two important hurdles standing in the way of exploiting this opportunity.
 
