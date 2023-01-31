@@ -1,18 +1,20 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 =Publications
 
-== Conference papers and presentations
+== Conference presentations
 
 - [docs/LightningTalk_Smoothing_Signals_BTubbs_221109_FINAL.pdf Smoothing a Signal (Data Science Lightning Talk, Vancouver, 2022) – slides,] [https://youtu.be/p30f7P6pbqc?t=2160 YouTube video]
-- [https://www.sciencedirect.com/science/article/pii/S2405896322014677 An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
+- [docs/IFAC_MMM_Presentation_Tubbs_220814_FINAL.pdf An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
 - [docs/SAG_MIll_Control_Challenges_UVic_Control_Mtg_190828.pdf Control Of SAG Mills And Its Challenges, (UVic Control Students Meeting, Victoria, 2019)]
 - [docs/Tubbs_Poster_36x48_191205_FINAL.pdf Data-Driven Models For Industrial Process Control (BC AI Student Showcase, Vancouver, 2019)]
 - [docs/Tubbs_Poster_36x48_190923_FINAL.pdf Data-Driven Approaches To Dynamic Optimization, (SAG 2019 Conference, Vancouver, 2019)]
 - [docs/Tubbs_CIM_Operations_Best_Practices_Talk_190428.pdf Data-Driven Production Optimization, (CIM Conference, Montreal, 2019)]
 - [docs/Web_Traffic_Time_Series_Forecasting_180726.pdf Web Traffic Time Series Forecasting (Data Science Meetup Talk, Vancouver, 2018) – slides,] [https://www.youtube.com/watch?v=0E1_vt_Z9HY YouTube video]
+- [docs/Energy_Management_161123_with_poll_results.pdf Energy Management In Large Industrial Operations (Saskpower IEOP Workshop, Saskatoon, 2016)]
 
-== Academic
+== Academic papers
 
+- [https://www.sciencedirect.com/science/article/pii/S2405896322014677 An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
 - [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf A Simulation Model for Canada-US Climate Policy Analysis (Masters thesis, 2008)]
 
 == Articles and blog posts
