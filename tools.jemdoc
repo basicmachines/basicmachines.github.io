@@ -7,9 +7,10 @@ Selected numerical analysis tools, mostly in Python or MATLAB.
 
 Algorithms
 - [https://github.com/billtubbs/ml-obs ml-obs] - MATLAB scripts to implement various process observers, including Kalman filter, EKF, and multi-model observers.
+- [https://github.com/billtubbs/SL4WT SL4WT] - MATLAB implementation and evaluation of the Adaptive Real Time Exploration and Optimization (ARTEO) algorithm.
 - [https://github.com/billtubbs/mpc-code mpc-code] - MATLAB scripts to implement MPC prediction equations and control laws for linear system models.
 
-Simulation environments
+Simulations environments
 - [https://github.com/billtubbs/gym-CartPole-bt-v0 gym-CartPole-bt-v0] - A modified version of the cart-pole OpenAI Gym environment for testing different control policies.
 - [https://github.com/billtubbs/gym-julia gym-julia] - Julia version of above cart-pole test environment.
 - [https://github.com/billtubbs/process-models process-models] - MATLAB process simulation models for control system design.
