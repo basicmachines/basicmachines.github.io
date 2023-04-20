@@ -3,7 +3,7 @@
 
 == Conference presentations
 
-- [docs/LightningTalk_Smoothing_Signals_BTubbs_221109_FINAL.pdf Smoothing a Signal (Data Science Lightning Talk, Vancouver, 2022) – slides,] [https://youtu.be/p30f7P6pbqc?t=2160 YouTube video]
+- [docs/LightningTalk_Smoothing_Signals_BTubbs_221109_FINAL.pdf Smoothing a Signal (Data Science Lightning Talk, Vancouver, 2022) – slides,] [https://youtu.be/p30f7P6pbqc?t=2160 video recording]
 - [docs/IFAC_MMM_Presentation_Tubbs_220814_FINAL.pdf An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
 - [docs/SAG_MIll_Control_Challenges_UVic_Control_Mtg_190828.pdf Control Of SAG Mills And Its Challenges, (UVic Control Students Meeting, Victoria, 2019)]
 - [docs/Tubbs_Poster_36x48_191205_FINAL.pdf Data-Driven Models For Industrial Process Control (BC AI Student Showcase, Vancouver, 2019)]
@@ -14,13 +14,16 @@
 
 == Academic papers
 
+- Using Prior Knowledge to Improve Adaptive Real Time Exploration and Optimization (submitted to INDIN 2023, under review)
 - [https://www.sciencedirect.com/science/article/pii/S2405896322014677 An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
-- [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf A Simulation Model for Canada-US Climate Policy Analysis (Masters thesis, 2008)]
+
+== Academic theses
+
+- Multiple-Model Observers for Detecting Ore Feed Disturbances in Grinding Operations (masters thesis, 2023, under review)
+- [http://rem-main.rem.sfu.ca/theses/TubbsWilliam_2008_MRM457.pdf A Simulation Model for Canada-US Climate Policy Analysis (masters thesis, 2008)]
 
 == Articles and blog posts
 
-- [https://towardsdatascience.com/have-spreadsheets-got-a-future-9b7ad23648b8 Is The Age of The Spreadsheet Over? (2020)]
-- [https://www.btubbsassociates.com/post/article-short-interval-control Short interval control – the discipline of performance review (2023)]
 - [https://www.btubbsassociates.com/post/article-choke-model The choke model – start with the facts on losses (2023)]
-
-More coming soon...
+- [https://www.btubbsassociates.com/post/article-short-interval-control Short interval control – the discipline of performance review (2023)]
+- [https://towardsdatascience.com/have-spreadsheets-got-a-future-9b7ad23648b8 Is The Age of The Spreadsheet Over? (2020)]
