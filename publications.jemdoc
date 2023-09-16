@@ -3,18 +3,18 @@
 
 == Conference presentations
 
-- [docs/LightningTalk_Smoothing_Signals_BTubbs_221109_FINAL.pdf Smoothing a Signal (Data Science Lightning Talk, Vancouver, 2022) – slides,] [https://youtu.be/p30f7P6pbqc?t=2160 video recording]
+- [docs/LightningTalk_Smoothing_Signals_BTubbs_221109_FINAL.pdf Smoothing a Signal (Data Science Lightning Talk, Vancouver, 2022) – slides], [https://youtu.be/p30f7P6pbqc?t=2160 video recording]
 - [docs/IFAC_MMM_Presentation_Tubbs_220814_FINAL.pdf An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
 - [docs/SAG_MIll_Control_Challenges_UVic_Control_Mtg_190828.pdf Control Of SAG Mills And Its Challenges, (UVic Control Students Meeting, Victoria, 2019)]
 - [docs/Tubbs_Poster_36x48_191205_FINAL.pdf Data-Driven Models For Industrial Process Control (BC AI Student Showcase, Vancouver, 2019)]
 - [docs/Tubbs_Poster_36x48_190923_FINAL.pdf Data-Driven Approaches To Dynamic Optimization, (SAG 2019 Conference, Vancouver, 2019)]
 - [docs/Tubbs_CIM_Operations_Best_Practices_Talk_190428.pdf Data-Driven Production Optimization, (CIM Conference, Montreal, 2019)]
-- [docs/Web_Traffic_Time_Series_Forecasting_180726.pdf Web Traffic Time Series Forecasting (Data Science Meetup Talk, Vancouver, 2018) – slides,] [https://www.youtube.com/watch?v=0E1_vt_Z9HY YouTube video]
+- [docs/Web_Traffic_Time_Series_Forecasting_180726.pdf Web Traffic Time Series Forecasting (Data Science Meetup Talk, Vancouver, 2018) – slides], [https://www.youtube.com/watch?v=0E1_vt_Z9HY YouTube video]
 - [docs/Energy_Management_161123_with_poll_results.pdf Energy Management In Large Industrial Operations (Saskpower IEOP Workshop, Saskatoon, 2016)]
 
 == Academic papers
 
-- Using Prior Knowledge to Improve Adaptive Real Time Exploration and Optimization (accepted to INDIN 2023)
+- [https://ieeexplore.ieee.org/abstract/document/10217925 Using Prior Knowledge to Improve Adaptive Real Time Exploration and Optimization (accepted to INDIN 2023)]
 - [https://www.sciencedirect.com/science/article/pii/S2405896322014677 An Observer to Detect Infrequently-Occurring Disturbances in Grinding Operations (IFAC MMM Conference, Montreal, 2022)]
 - [docs/Tubbs_2006_EINinpractice_210111.pdf Eco-Industrial Networking: What is realistic in practice? (REM, SFU, 2006)]
 
@@ -25,6 +25,7 @@
 
 == Articles and blog posts
 
+- [https://www.linkedin.com/pulse/short-interval-control-management-bill-tubbs Short interval control for management (2023)]
 - [https://www.linkedin.com/pulse/loss-accounting-making-fact-based-improvement-decisions-bill-tubbs Loss accounting – making fact-based improvement decisions (2023)]
 - [https://www.linkedin.com/pulse/choke-model-start-facts-losses-bill-tubbs/ The choke model – start with the facts on losses (2023)]
 - [https://www.linkedin.com/pulse/short-interval-control-discipline-performance-review-bill-tubbs/ Short interval control – the discipline of performance review (2023)]
