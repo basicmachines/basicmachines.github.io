@@ -3,10 +3,9 @@
 
 ~~~
 {}{img_left}{images/tubbs_cropped_sm.jpg}{Head shot}{131}{160}
-Management consultant, [http://www.btubbsassociates.com B. Tubbs & Associates Consulting],\n
+Management consultant / process optimization specialist\n
+[http://www.btubbsassociates.com B. Tubbs & Associates Consulting]\n
 Vancouver, BC, Canada.\n
-Graduate student, [https://loop.gel.ulaval.ca/ Laboratoire d'observation et d'optimisation des procédés (LOOP)]\n
-Université Laval, Québec City, QC, Canada.\n
 Phone: \+1 778 378 6539 \n
 E-mail: bill.tubbs \[@\] me \[DOT\] com \n
 [https://github.com/billtubbs Github] \n
@@ -28,13 +27,18 @@ I am interested in:
 
 [expertise.html More about my background].\n
 
+== Qualifications
+ - Master's in Electrical and Computer Engineering, Université Laval, Québec City, QC, Canada (2023).
+ - Master's in Resource Management, Simon Fraser University, Burnaby, BC, Canada (2008).
+ - BSc. in General Engineering, University of Durham, Durham, UK (1994).
+
 == Research
 I am currently researching real-time optimization and control methods for applications in mineral processing:
 - System identification
 - Process observers (state estimators)
 - Disturbance detection and estimation
-- Process control (e.g. MPC)
-- Online optimization
+- Advanced process control (e.g. MPC)
+- Real-time optimization
 
 [research.html Find out more].\n
 [docs/cv.pdf My full cv].
